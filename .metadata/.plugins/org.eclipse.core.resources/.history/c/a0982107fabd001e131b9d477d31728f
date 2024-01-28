@@ -1,0 +1,5 @@
+package testng.runner;
+
+public class RunCucumberTest {
+
+}

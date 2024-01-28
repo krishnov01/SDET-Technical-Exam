@@ -1,0 +1,4 @@
+com\pages\HomePage.class
+com\stepefinitions\ASPNETAWESOMEPageSteps.class
+com\common\BasePage.class
+com\testng\runner\RunCucumberTest.class
